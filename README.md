@@ -62,4 +62,4 @@ The above command will dump *minified(compact) json* with all customer, componen
 That's it.
 
 
-<br><br><centre>&copy; Cisco Systems Inc. All rights reserved.</centre>
+<br><br><centre>&copy; Owner. All rights reserved.</centre>
