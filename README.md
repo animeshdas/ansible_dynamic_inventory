@@ -2,7 +2,7 @@
 
 ## How to use Ansible dynamic inventory python script *dyninventory.py* in Ansible.
 
-##### Python Coding : Scott Dozier (scdozier) <scdozier@cisco.com><br>Documentation : Animesh Das (animdas) <animdas@cisco.com><br>The python script and associated files classification : Highly Confidential<br>Date : 08-May-2020  
+##### Date : 08-May-2020  
 
 -----
 ***dyninventory.py*** is an Ansible dynamic inventory script written in python. This file when used with Ansible or without Ansible will pull CMS customer inventory i.e. hosts from Prod MoM EM7 database.
